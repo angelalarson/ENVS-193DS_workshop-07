@@ -10,6 +10,8 @@ execute:
   warning: false # use this to make sure warnings don't show up
 ---
 
+**NOTE!!! this a reference for linear regression whenever i need it
+
 # 1. Set up
 
 ```{r libraries-and-data}
