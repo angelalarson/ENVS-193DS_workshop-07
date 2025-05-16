@@ -6,9 +6,9 @@ All READMEs for this class should have the following sections:
 
 ## General information
 
-What is this repo for?
+this repo is for testing out forking an basic git/github actions and for reference for linear regressino
 
-Whose repo is it? Who is contributing to it?
+this is my repo forked from fjoyce
 
 ## Data and file information
 
